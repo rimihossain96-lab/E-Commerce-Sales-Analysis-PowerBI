@@ -171,7 +171,7 @@ Order Priority
 
 # 📷 Dashboard Preview
 
-![E-Commerce Sales Analysis Dashboard](dashboard/E-Commerce_Dashboard.png)
+![E-Commerce_Dashboard](E-Commerce_Dashboard.png)
 
 
 # 💡 Business Insights
